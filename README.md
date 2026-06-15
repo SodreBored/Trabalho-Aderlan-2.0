@@ -9,11 +9,11 @@
 3. Guilherme Virgílio de Moura Alves
 4. Pedro Henrique Mendes de Oliveira
 5. Ivano Gabriel Silva Melo
-6. Nome do Integrante 6
-7. Cauã Manoel Nogueira de Aguiar
-8. Eduardo dos Santos Silva
-9. Pedro Bertonha Sodré
-10. Matheus Kayke da Silva Marinho Mariano
+6. Cauã Manoel Nogueira de Aguiar
+7. Eduardo dos Santos Silva
+8. Pedro Bertonha Sodré
+9. Matheus Kayke da Silva Marinho Mariano
+10. Nome do integrante 10
 
 MVP de um sistema de controle financeiro pessoal, desenvolvido para o trabalho da AV2.
 Permite registrar receitas e despesas, categorizá-las e visualizar um dashboard com
